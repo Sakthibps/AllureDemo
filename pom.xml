@@ -65,7 +65,7 @@
            <version>${maven-surefire-plugin-version}</version>
           <configuration>
                    <suiteXmlFiles>
-                       <suiteXmlFile>TestNG.xml</suiteXmlFile>
+                       <suiteXmlFile>testsuite1.xml</suiteXmlFile>
                    </suiteXmlFiles>
                 <argLine>
                    -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
