@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="test1"/>
+      <class name="AllureDemo/test1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
